@@ -1,0 +1,11 @@
+﻿  j3a.cpp
+  OpenGLNEW.cpp
+D:\컴그\project\Shadow_Mapping\OpenGLNEW\OpenGLNEW.cpp(10,9): warning C4068: 알 수 없는 pragma 'commnet'
+D:\컴그\project\Shadow_Mapping\OpenGLNEW\OpenGLNEW.cpp(282,36): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\컴그\project\Shadow_Mapping\OpenGLNEW\OpenGLNEW.cpp(285,39): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\컴그\project\Shadow_Mapping\OpenGLNEW\OpenGLNEW.cpp(287,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+glew32s.lib(glew.obj) : warning LNK4099: 'vc120.pdb' PDB를 'glew32s.lib(glew.obj)' 또는 'D:\컴그\project\Shadow_Mapping\x64\Debug\vc120.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  OpenGLNEW.vcxproj -> D:\컴그\project\Shadow_Mapping\x64\Debug\OpenGLNEW.exe
